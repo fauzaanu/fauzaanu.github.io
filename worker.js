@@ -1,4 +1,4 @@
-// v3
+// v2
 
 const assets = [
   "/",
